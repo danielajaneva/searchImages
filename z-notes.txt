@@ -1,0 +1,9 @@
+* Event Handlers - onClick, onSubmit, onChange..
+* Controled and Uncontroled elements (State)
+* Solution of the most comon Type Error (this.)
+* Invoking callbacks in "children" elements 
+* Sending request to API (with axios(recomended to use) or fetch)
+* axios install ( npm install --save axios) into project
+* Promise (then()) and ASYNC/AWAIT
+* rendering images with MAP() and using a css GRID
+* dynamic spans and (this.imageRef = React.createRef();)
